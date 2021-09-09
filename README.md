@@ -5,7 +5,15 @@
 </p>
 
 <p align="left">
-  💼 Job: <strong>software developer</strong> at <a href="https://qaflab.com">QAF Lab</a> company
+  💼 Job: 
+  <ol>
+    <li>
+      <strong>software developer</strong> at <a href="https://qaflab.com">QAF Lab</a> company
+    </li>
+    <li>
+      <strong>Instructor</strong> at Mosul Fikra Camp
+    </li>
+  </ol>
 </p>
 
 <p align="left">
