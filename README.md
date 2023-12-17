@@ -8,7 +8,7 @@
   💼 Jobs:
   <ul>
     <li>
-      <strong>software enginner assistant</strong> at <a href="https://uomosul.edu.iq">University of Mosul</a>
+      <strong>Software enginner assistant</strong> at <a href="https://uomosul.edu.iq">University of Mosul</a>
     </li>
   </ul>
 </p>
