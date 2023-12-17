@@ -5,18 +5,27 @@
 </p>
 
 <p align="left">
-  💼 Jobs: 
-  <ol>
+  💼 Jobs:
+  <ul>
     <li>
-      <strong>software enginner</strong> at <a href="https://qaflab.com">QAF Lab</a> company
+      <strong>software enginner assistant</strong> at <a href="https://uomosul.edu.iq">University of Mosul</a>
+    </li>
+  </ul>
+</p>
+
+<p align="left">
+  ⌛️ PrevJobs: 
+  <ul>
+    <li>
+      <strong>Senior Software enginner</strong> at <a href="https://qaflab.com">QAF Lab</a> company
     </li>
     <li>
       <strong>Instructor</strong> at Mosul Fikra Camp
     </li>
     <li>
-      <strong>software developer</strong> at Falaq
+      <strong>Software developer</strong> at Falaq
     </li>
-  </ol>
+  </ul>
 </p>
 
 <p align="left">
