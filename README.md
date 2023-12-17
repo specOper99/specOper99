@@ -8,7 +8,7 @@
   💼 Jobs:
   <ul>
     <li>
-      <strong>Software enginner assistant</strong> at <a href="https://uomosul.edu.iq">University of Mosul</a>
+      <strong>Software Enginner Assistant</strong> at <a href="https://uomosul.edu.iq">University of Mosul</a>
     </li>
   </ul>
 </p>
@@ -17,13 +17,13 @@
   ⌛️ PrevJobs: 
   <ul>
     <li>
-      <strong>Senior Software enginner</strong> at <a href="https://qaflab.com">QAF Lab</a> company
+      <strong>Senior Software Enginner</strong> at <a href="https://qaflab.com">QAF Lab</a> company
     </li>
     <li>
       <strong>Instructor</strong> at Mosul Fikra Camp
     </li>
     <li>
-      <strong>Software developer</strong> at Falaq
+      <strong>Software Developer</strong> at Falaq
     </li>
   </ul>
 </p>
