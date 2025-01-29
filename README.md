@@ -8,7 +8,7 @@
   💼 Jobs:
   <ul>
     <li>
-      <strong>Software Enginner Assistant</strong> at <a href="https://uomosul.edu.iq">University of Mosul</a>
+      <strong>Associate Software Engineer</strong> at <a href="https://uomosul.edu.iq">University of Mosul</a>
     </li>
   </ul>
 </p>
