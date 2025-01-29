@@ -17,7 +17,7 @@
   ⌛️ PrevJobs: 
   <ul>
     <li>
-      <strong>Senior Software Enginner</strong> at <a href="https://qaflab.com">QAF Lab</a> company
+      <strong>Senior Software Engineer</strong> at <a href="https://qaflab.com">QAF Lab</a> company
     </li>
     <li>
       <strong>Instructor</strong> at Mosul Fikra Camp
